@@ -54,224 +54,76 @@ const app = {
 			name: 'Old Love',
 			singer: 'MOLO',
 			path: './access/music_KL/OldLove.mp3',
-			image: './access/image/1.jpg',
-			backgroundImage: './access/image/1.jpg'
+			image: './access/image/1.jpg'
 		},
 		{
-			name: 'In the name of love',
+			name: 'Overdose',
 			singer: 'MARTIN GARIX X BEBE REXHA',
-			path: 'https://audio.jukehost.co.uk/Ww2CXsanXtQsUZfNvE8pxbuHIvQwwgjq',
-			image: './access/image/2.jpg',
-			backgroundImage: './access/image/2.jpg'
-
+			path: './access/music_KL/Overdose.mp3',
+			image: './access/image/2.jpg'
 		},
 		{
-			name: 'Santa tell me',
-			singer: 'TATUM',
-			path: 'https://audio.jukehost.co.uk/JkiUDSPcEw6onVRI6rozH9mKkBB0HKJU',
-			image: './access/image/3.jpg',
-			backgroundImage: './access/image/3.jpg'
-
+			name: 'Bad Habit',
+			singer: 'MARTIN GARIX X BEBE REXHA',
+			path: './access/music_KL/BadHabit.mp3',
+			image: './access/image/2.jpg'
 		},
 		{
 			name: 'Độ Tộc 2',
 			singer: 'ĐỘ MIXI x Phúc Du x Pháo x Masew',
-			path: 'https://audio.jukehost.co.uk/gWgIRaivqAUqsztPAhFu9xFZIpLWN0zX',
-			image: './access/image/4.jpg',
-			backgroundImage: './access/image/4.jpg'
-
+			path: './access/music_KL/Boysaliar.mp3',
+			image: './access/image/4.jpg'
 		},
 		{
 			name: 'Stream đến bao giờ',
 			singer: 'ĐỘ MIXI',
-			path: 'https://audio.jukehost.co.uk/FOZUkSfMH1LyfTdcE1kmiHPM2hAtfwdJ',
-			image: './access/image/5.jpg',
-			backgroundImage: './access/image/5.jpg'
-
+			path: './access/music_KL/TrainingWheels.mp3',
+			image: './access/image/5.jpg'
 		},
-		// {
-		// 	name: 'Đạo lý tình yêu',
-		// 	singer: 'Độ Lý',
-		// 	path: 'https://audio.jukehost.co.uk/81zcK2ZhYSykveiAxDpsZdaw1qBTvRFl',
-		// 	image: './access/image/6.jpg',
-		// 	backgroundImage: './access/image/6.jpg'
-
-		// },
-		// {
-		// 	name: 'Cách tán CRUSH',
-		// 	singer: 'MIXI tán gái',
-		// 	path: 'https://audio.jukehost.co.uk/ern540dlzO4IjpL0WPYuZ70f8sv2BLNA',
-		// 	image: './access/image/7.jpg',
-		// 	backgroundImage: './access/image/7.jpg'
-
-		// },
 		{
 			name: 'Bên trên tầng lầu',
 			singer: 'Giấu tên',
-			path: 'https://audio.jukehost.co.uk/voPD8l4y2MtgXMEaTQLjuNGKfd6fScST',
-			image: './access/image/8.jpg',
-			backgroundImage: './access/image/8.jpg'
-
+			path: './access/music_KL/TheRiver.mp3',
+			image: './access/image/6.jpg'
 		},
-		// {
-		// 	name: 'Phải có người yêu',
-		// 	singer: 'Độ người yêu',
-		// 	path: 'https://audio.jukehost.co.uk/w0T6Qm0Wa5Exbckw0NBYPzLRVdoC0XaW',
-		// 	image: './access/image/9.jpg',
-		// 	backgroundImage: './access/image/9.jpg'
-
-		// },
 		{
 			name: 'REMIX',
 			singer: 'DATTO SAN',
-			path: 'https://audio.jukehost.co.uk/UJQC1L2VtxB1VJUXrirPV2nd0esR3TTq',
-			image: './access/image/10.jpg',
-			backgroundImage: './access/image/10.jpg'
-
+			path: './access/music_KL/PacifyHer.mp3',
+			image: './access/image/7.jpg'
 		},
 		{
 			name: 'THE ONE THAT GOT AWAY REMIX ',
 			singer: '( TRUNG HOÀNG MIX ) HOT TIK TOK 2022',
-			path: 'https://audio.jukehost.co.uk/aqyXf57JMOuOiL1UYxdSVIyaVKwEiJhV',
-			image: './access/image/12.jpg',
-			backgroundImage: './access/image/12.jpg'
-
+			path: './access/music_KL/OutrunningKarma.mp3',
+			image: './access/image/8.jpg'
 		},
 		{
 			name: 'HOUSE LAK - DON\'T STOP - MIXSET',
 			singer: 'TeA DEEP',
-			path: 'https://audio.jukehost.co.uk/GpiaGGM4glp7dI5ik7o6TyREMAeqAgtw',
-			image: './access/image/13.png',
-			backgroundImage: './access/image/13.png'
-
+			path: './access/music_KL/WEONLYGONORTH.mp3',
+			image: './access/image/9.png'
 		},
 		{
 			name: 'HOUSE LAK 2022 - LAK WITH SOI DOLCE IN DA HEY Vol.2',
 			singer: 'TeA DEEP',
-			path: 'https://audio.jukehost.co.uk/9Gx7683oWxXsYKCB35CIbWvnti7EOcun',
-			image: './access/image/14.png',
-			backgroundImage: './access/image/14.png'
-
+			path: './access/music_KL/Demons.mp3',
+			image: './access/image/10.png'
 		},
 		{
 			name: 'Deep House 2021 - Việt Mix Chuyện Tình Willzi | Deep Chill',
 			singer: 'TeA DEEP',
-			path: 'https://audio.jukehost.co.uk/1eGwSkq9cg8B2CuMunrjDwM4PSY394Xp',
-			image: './access/image/15.png',
-			backgroundImage: './access/image/15.png'
-
+			path: './access/music_KL/StateofWonder.mp3',
+			image: './access/image/11.png'
 		},
-		{
-			name: 'Mắt Em Nhòa Đi Mascara ( DJ Long Nhật ) - Đạt Con Mix',
-			singer: 'PHÚ THỌ BAY',
-			path: 'https://audio.jukehost.co.uk/GU34oKgF1ldD7L9xvRxC2Dh6v7m80ObZ',
-			image: './access/image/16.png',
-			backgroundImage: './access/image/16.png'
-
-		},
-		{
-			name: 'HOUSE LAK - THANH NIÊN | ANNIVERSARY - NBC',
-			singer: 'TeA DEEP',
-			path: 'https://audio.jukehost.co.uk/1IxR784CThbI21lbLigVCYg945TpMrOB',
-			image: './access/image/17.png',
-			backgroundImage: './access/image/17.png'
-
-		},
-		{
-			name: 'MIXTAPE - VIET DEEP CHỈ CÒN MỘT ĐÊM CUỐI',
-			singer: 'Trinh Minh Phuc',
-			path: 'https://audio.jukehost.co.uk/YsZ6qDhKWVUYXByklPOjFdhceQFzzhfN',
-			image: './access/image/18.png',
-			backgroundImage: './access/image/18.png'
-
-		},
-		{
-			name: 'MIXTAPE - VIET DEEP XA ANH CHẬM CHẬM THÔI',
-			singer: 'Trinh Minh Phuc',
-			path: 'https://audio.jukehost.co.uk/wzw3GdzFGe9QQRs0cNi7ZrU4Tx7xI0jZ',
-			image: './access/image/19.png',
-			backgroundImage: './access/image/19.png'
-
-		},
-		{
-			name: 'VIET DEEP 2022 - RẰNG EM MÃI Ở BÊN X NHƯ ANH ĐÃ THẤY EM',
-			singer: 'Deluxe Music',
-			path: 'https://audio.jukehost.co.uk/8Bpq95lmEuiJUBBNMTpmlIHmmzq3INSe',
-			image: './access/image/20.png',
-			backgroundImage: './access/image/20.png'
-
-		},
-		{
-			name: 'VIET DEEP 2022 - THỜI GIAN SẼ TRẢ LỜI X CHIẾC KHĂN GIÓ ẤM',
-			singer: 'Deluxe Music',
-			path: 'https://audio.jukehost.co.uk/Rs1wxf0XeVYACUirLHp4QJmzvpTIR2GU',
-			image: './access/image/21.png',
-			backgroundImage: './access/image/21.png'
-
-		},
-		{
-			name: 'HOUSE LAK 2022 - Thăng Trầm | Slow Down',
-			singer: 'TeA DEEP',
-			path: 'https://audio.jukehost.co.uk/AgdgaCvSRoNAFOA5t81sQYEGZwMs2xPB',
-			image: './access/image/22.png',
-			backgroundImage: './access/image/22.png'
-
-		},
-		{
-			name: 'MIXTAPE - HOUSE LAK | SO FAR AWAY - 1500 STROKES',
-			singer: 'Trinh Minh Phuc',
-			path: 'https://audio.jukehost.co.uk/FBKoedI9QpLrVeVzMUeBG7XMYsSbdsRw',
-			image: './access/image/23.png',
-			backgroundImage: './access/image/23.png'
-
-		},
-		{
-			name: 'VIET DEEP 2022 - RẰNG EM MÃI Ở BÊN REMIX',
-			singer: 'Deluxe Music',
-			path: 'https://audio.jukehost.co.uk/1HhhLRJvUFADFKcbsMIIby2HpLOsQm0d',
-			image: './access/image/24.png',
-			backgroundImage: './access/image/24.png'
-
-		},
-		{
-			name: 'Viet Deep #20',
-			singer: 'MEDIA_MusicPro',
-			path: 'https://audio.jukehost.co.uk/b851eO6JbcqB3iL32XlkMd0eOwqdB6HS',
-			image: './access/image/11.png',
-			backgroundImage: './access/image/11.png'
-
-		},
-		{
-			name: 'House Lak Nhà Làm - Thương em đến già By HoangMP Mix (ND Team)',
-			singer: 'MEDIA_MusicPro',
-			path: 'https://audio.jukehost.co.uk/vDzz9Y1mpRLBolq2twF3daWDfl782w90',
-			image: './access/image/25.png',
-			backgroundImage: './access/image/25.png'
-
-		},
-		{
-			name: 'NONSTOP 2022 BAY PHÒNG BASS CỰC MẠNH | Nonstop Vinahouse 2022',
-			singer: 'MEDIA_MusicPro',
-			path: 'https://audio.jukehost.co.uk/zD2zAAX9odnUp54lys7dORn1gDnUv4FH',
-			image: './access/image/26.png',
-			backgroundImage: './access/image/26.png'
-
-		},
-		{
-			name: 'Mixset HouseLak - Boc Dau 1.0 | Hdung x Dat Kon',
-			singer: 'MEDIA_MusicPro',
-			path: 'https://audio.jukehost.co.uk/rJxJ2SDBm3SFlNIblap1ckOaexZovoSi',
-			image: './access/image/27.png',
-			backgroundImage: './access/image/27.png'
-
-		},
+			
+		
 		
 	],
 
 	render: function() {
 		const htmls = this.songs.map(function(song, index) {
-			// style="background: url(${song.backgroundImage}) center / cover no-repeat">
-			return `
+			return	 `
 			<div class="song" id="song-${index}" data-index="${index}">
 				<div class="thumb" 
 					style="background-image: url('${song.image}')">
