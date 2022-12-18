@@ -52,71 +52,76 @@ const app = {
 	songs: [
 		{
 			name: 'Old Love',
-			singer: 'MOLO',
+			singer: 'Yuji',
 			path: './access/music_KL/OldLove.mp3',
-			image: './access/image/1.jpg'
+			image: './access/image/1.png'
 		},
 		{
 			name: 'Overdose',
-			singer: 'MARTIN GARIX X BEBE REXHA',
+			singer: 'SMTOWN',
 			path: './access/music_KL/Overdose.mp3',
-			image: './access/image/2.jpg'
+			image: './access/image/2.png'
 		},
 		{
 			name: 'Bad Habit',
-			singer: 'MARTIN GARIX X BEBE REXHA',
+			singer: 'Kuliet',
 			path: './access/music_KL/BadHabit.mp3',
-			image: './access/image/2.jpg'
+			image: './access/image/3.png'
 		},
 		{
-			name: 'Độ Tộc 2',
-			singer: 'ĐỘ MIXI x Phúc Du x Pháo x Masew',
+			name: 'Boy\'s a linar',
+			singer: 'Pinkpantheress',
 			path: './access/music_KL/Boysaliar.mp3',
-			image: './access/image/4.jpg'
+			image: './access/image/4.png'
 		},
 		{
-			name: 'Stream đến bao giờ',
-			singer: 'ĐỘ MIXI',
+			name: 'Training Wheels',
+			singer: 'Melanie Martinez',
 			path: './access/music_KL/TrainingWheels.mp3',
-			image: './access/image/5.jpg'
+			image: './access/image/5.png'
 		},
 		{
-			name: 'Bên trên tầng lầu',
-			singer: 'Giấu tên',
+			name: 'Pacify Her',
+			singer: 'Melanie Martinez',
 			path: './access/music_KL/TheRiver.mp3',
-			image: './access/image/6.jpg'
+			image: './access/image/6.png'
 		},
 		{
-			name: 'REMIX',
-			singer: 'DATTO SAN',
+			name: 'The river',
+			singer: 'Axel Johansson',
 			path: './access/music_KL/PacifyHer.mp3',
-			image: './access/image/7.jpg'
+			image: './access/image/7.png'
 		},
 		{
-			name: 'THE ONE THAT GOT AWAY REMIX ',
-			singer: '( TRUNG HOÀNG MIX ) HOT TIK TOK 2022',
+			name: 'Outrunning',
+			singer: 'Alec Benjamin',
 			path: './access/music_KL/OutrunningKarma.mp3',
-			image: './access/image/8.jpg'
+			image: './access/image/8.png'
 		},
 		{
-			name: 'HOUSE LAK - DON\'T STOP - MIXSET',
-			singer: 'TeA DEEP',
+			name: 'We only go north',
+			singer: 'HAARPER',
 			path: './access/music_KL/WEONLYGONORTH.mp3',
 			image: './access/image/9.png'
 		},
 		{
-			name: 'HOUSE LAK 2022 - LAK WITH SOI DOLCE IN DA HEY Vol.2',
-			singer: 'TeA DEEP',
+			name: 'Demons',
+			singer: 'Alec Benjamin',
 			path: './access/music_KL/Demons.mp3',
 			image: './access/image/10.png'
 		},
 		{
-			name: 'Deep House 2021 - Việt Mix Chuyện Tình Willzi | Deep Chill',
-			singer: 'TeA DEEP',
+			name: 'State of Wonder',
+			singer: 'Inverness Official',
 			path: './access/music_KL/StateofWonder.mp3',
 			image: './access/image/11.png'
 		},
-			
+		{
+			name: 'Speed up playlist for attractive ppl',
+			singer: 'Almeda',
+			path: './access/music_KL/Speedupplaylistforattractive.mp3',
+			image: './access/image/12.png'
+		},	
 		
 		
 	],
