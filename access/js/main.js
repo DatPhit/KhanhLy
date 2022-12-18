@@ -122,7 +122,135 @@ const app = {
 			path: './access/music_KL/Speedupplaylistforattractive.mp3',
 			image: './access/image/12.png'
 		},	
-		
+
+
+		{
+			name: 'Sunroof',
+			singer: 'Nicky Youre',
+			path: './access/music_KL/Sunroof.mp3',
+			image: './access/image/13.png'
+		},
+		{
+			name: 'ROXANNE',
+			singer: 'Arizona Zervas',
+			path: './access/music_KL/ROXANNE.mp3',
+			image: './access/image/14.png'
+		},
+		{
+			name: 'The Best For You',
+			singer: '歐陽娜娜Nana OuYang ',
+			path: './access/music_KL/TheBestForYou.mp3',
+			image: './access/image/15.png'
+		},
+		{
+			name: 'Astronomy',
+			singer: 'Conan Gray',
+			path: './access/music_KL/Astronomy.mp3',
+			image: './access/image/16.png'
+		},
+		{
+			name: 'Cheating on You',
+			singer: 'Charlie Puth',
+			path: './access/music_KL/CheatingonYou.mp3',
+			image: './access/image/17.png'
+		},
+		{
+			name: 'Double take',
+			singer: 'dhruv',
+			path: './access/music_KL/doubletake.mp3',
+			image: './access/image/18.png'
+		},
+		{
+			name: 'You Are The Reason',
+			singer: 'Calum Scott',
+			path: './access/music_KL/YouAreTheReason.mp3',
+			image: './access/image/19.png'
+		},
+		{
+			name: 'TOMBOY',
+			singer: '여자)아이들((G)I-DLE',
+			path: './access/music_KL/TOMBOY.mp3',
+			image: './access/image/20.png'
+		},
+		{
+			name: 'Apple Tree',
+			singer: 'AURORA',
+			path: './access/music_KL/AppleTree.mp3',
+			image: './access/image/21.png'
+		},
+		{
+			name: 'Heather',
+			singer: 'Conan Gray',
+			path: './access/music_KL/Heather.mp3',
+			image: './access/image/22.png'
+		},
+		{
+			name: 'Instagram',
+			singer: 'DEANTRBL',
+			path: './access/music_KL/instagram.mp3',
+			image: './access/image/23.png'
+		},
+		{
+			name: 'YOUTH',
+			singer: 'Troye Sivan',
+			path: './access/music_KL/YOUTH.mp3',
+			image: './access/image/24.png'
+		},
+
+		{
+			name: 'Moonlight',
+			singer: 'Yuji',
+			path: './access/music_KL/Moonlight.mp3',
+			image: './access/image/25.png'
+		},
+		{
+			name: 'My Dear Friend',
+			singer: 'Limshaira',
+			path: './access/music_KL/MyDearFriend.mp3',
+			image: './access/image/26.png'
+		},
+		{
+			name: ' If We Have Each Other',
+			singer: 'Alec Benjamin',
+			path: './access/music_KL/IfWeHaveEachOther.mp3',
+			image: './access/image/27.png'
+		},
+		{
+			name: 'Why Do You Love Me',
+			singer: 'Charlotte Lawrence',
+			path: './access/music_KL/WhyDoYouLoveMe.mp3',
+			image: './access/image/28.png'
+		},
+		{
+			name: 'Still with you',
+			singer: 'Jaeguchi',
+			path: './access/music_KL/StillWithYou.mp3',
+			image: './access/image/29.png'
+		},
+		{
+			name: 'Heat waves',
+			singer: 'Glass Animals',
+			path: './access/music_KL/HeatWaves.mp3',
+			image: './access/image/30.png'
+		},
+		{
+			name: 'Everywhere I go',
+			singer: 'Spinnin\' Records',
+			path: './access/music_KL/AnywhereIGo.mp3',
+			image: './access/image/31.png'
+		},
+		{
+			name: 'On my mind',
+			singer: 'Elliegoulding',
+			path: './access/music_KL/OnMyMind.mp3',
+			image: './access/image/32.png'
+		},
+		{
+			name: 'This is what you came for',
+			singer: 'Calvin Harris',
+			path: './access/music_KL/ThisIsWhatYouCameFor.mp3',
+			image: './access/image/33.png'
+		},
 		
 	],
 
@@ -134,7 +262,7 @@ const app = {
 					style="background-image: url('${song.image}')">
 				</div>
 				<div class="body">
-					<h3 class="title">${song.name}</h3>
+					<h3 class="title">${index + 1}. ${song.name}</h3>
 					<p class="author">${song.singer}</p>
 				</div>
 				<div class="option">
