@@ -204,9 +204,9 @@ const app = {
 			image: './access/image/25.png'
 		},
 		{
-			name: 'My Dear Friend',
-			singer: 'Limshaira',
-			path: './access/music_KL/MyDearFriend.mp3',
+			name: 'Pretty Girl',
+			singer: 'Claire Cottrill',
+			path: './access/music_KL/PrettyGirl.mp3',
 			image: './access/image/26.png'
 		},
 		{
